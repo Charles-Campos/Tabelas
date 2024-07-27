@@ -1,3 +1,3 @@
-# Tabelas
-Aula 8 - Tabelas
+# Tabelas (Aula 8)
+
 Ranking WTA de Tenistas
